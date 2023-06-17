@@ -4,5 +4,20 @@
     <SupportedOSPlatformVersion>21</SupportedOSPlatformVersion>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>HoverView.Maui.Android</AssemblyName>
+    <RootNamespace>HoverView.Maui.Android</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>HoverView.Maui.Android</PackageId>
+    <Title>HoverView.Maui.Android</Title>
+    <Authors>Emil Alipiev</Authors>
+    <Description>HoverView and custom tooltip popup for Maui.Android projects</Description>
+    <Copyright>Emil Alipiev</Copyright>
+    <PackageProjectUrl>https://github.com/EmilAlipiev/Maui.Android.HoverView</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/EmilAlipiev/Maui.Android.HoverView</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/EmilAlipiev/Maui.Android.HoverView</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>maui, xamarin, hoverview, android, tooltip</PackageTags>
+    <PackageReleaseNotes>first release</PackageReleaseNotes>
+    <IncludeSymbols>True</IncludeSymbols>
   </PropertyGroup>
 </Project>
